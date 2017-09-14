@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 60b6deba1e0dc6d4d9f7a8feb014939b
+labels:
+- TropicalForestPack
+timeCreated: 1430791390
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: branch01_xw14_xt24_xp07
+    100002: branch02_xw14_xt20
+    100004: branch03_xw14_xt20
+    100006: branch04_xw19_xt28_xp02
+    100008: branch05_xw14_xt24_xp04
+    100010: branch06_xw16_xt28_xp10
+    100012: branch07_xw19_xt20_xp05
+    100014: branch08_xw18_xt22_xp10
+    100016: branch09_xw12_xt20_xp01
+    100018: branch10_xw14_xt32_xp10
+    100020: branch11_xw14_xt20
+    100022: branch12_xw14_xt30_xp03
+    100024: branch13_xw25_xt35_xp04
+    100026: branch14_xw14_xt28
+    100028: branch15_xw25_xt35_xp09
+    100030: branch17_xw14_xt30
+    100032: branch18_xw16_xt28_xp04
+    100034: branch19_xw22_xt28_xp02
+    100036: branch20_xw20_xt28_xp09
+    100038: branch21_xw18_xt28_xp06
+    100040: brush01
+    100042: brush02
+    100044: brush03
+    100046: coconut01
+    100048: coconut02
+    100050: coconut03
+    100052: coconut04
+    100054: coconut05
+    100056: coconut06
+    100058: //RootNode
+    100060: trunk_xw14
+    400000: branch01_xw14_xt24_xp07
+    400002: branch02_xw14_xt20
+    400004: branch03_xw14_xt20
+    400006: branch04_xw19_xt28_xp02
+    400008: branch05_xw14_xt24_xp04
+    400010: branch06_xw16_xt28_xp10
+    400012: branch07_xw19_xt20_xp05
+    400014: branch08_xw18_xt22_xp10
+    400016: branch09_xw12_xt20_xp01
+    400018: branch10_xw14_xt32_xp10
+    400020: branch11_xw14_xt20
+    400022: branch12_xw14_xt30_xp03
+    400024: branch13_xw25_xt35_xp04
+    400026: branch14_xw14_xt28
+    400028: branch15_xw25_xt35_xp09
+    400030: branch17_xw14_xt30
+    400032: branch18_xw16_xt28_xp04
+    400034: branch19_xw22_xt28_xp02
+    400036: branch20_xw20_xt28_xp09
+    400038: branch21_xw18_xt28_xp06
+    400040: brush01
+    400042: brush02
+    400044: brush03
+    400046: coconut01
+    400048: coconut02
+    400050: coconut03
+    400052: coconut04
+    400054: coconut05
+    400056: coconut06
+    400058: //RootNode
+    400060: trunk_xw14
+    2300000: branch01_xw14_xt24_xp07
+    2300002: branch02_xw14_xt20
+    2300004: branch03_xw14_xt20
+    2300006: branch04_xw19_xt28_xp02
+    2300008: branch05_xw14_xt24_xp04
+    2300010: branch06_xw16_xt28_xp10
+    2300012: branch07_xw19_xt20_xp05
+    2300014: branch08_xw18_xt22_xp10
+    2300016: branch09_xw12_xt20_xp01
+    2300018: branch10_xw14_xt32_xp10
+    2300020: branch11_xw14_xt20
+    2300022: branch12_xw14_xt30_xp03
+    2300024: branch13_xw25_xt35_xp04
+    2300026: branch14_xw14_xt28
+    2300028: branch15_xw25_xt35_xp09
+    2300030: branch17_xw14_xt30
+    2300032: branch18_xw16_xt28_xp04
+    2300034: branch19_xw22_xt28_xp02
+    2300036: branch20_xw20_xt28_xp09
+    2300038: branch21_xw18_xt28_xp06
+    2300040: brush01
+    2300042: brush02
+    2300044: brush03
+    2300046: coconut01
+    2300048: coconut02
+    2300050: coconut03
+    2300052: coconut04
+    2300054: coconut05
+    2300056: coconut06
+    2300058: trunk_xw14
+    2300060: //RootNode
+    3300000: branch01_xw14_xt24_xp07
+    3300002: branch02_xw14_xt20
+    3300004: branch03_xw14_xt20
+    3300006: branch04_xw19_xt28_xp02
+    3300008: branch05_xw14_xt24_xp04
+    3300010: branch06_xw16_xt28_xp10
+    3300012: branch07_xw19_xt20_xp05
+    3300014: branch08_xw18_xt22_xp10
+    3300016: branch09_xw12_xt20_xp01
+    3300018: branch10_xw14_xt32_xp10
+    3300020: branch11_xw14_xt20
+    3300022: branch12_xw14_xt30_xp03
+    3300024: branch13_xw25_xt35_xp04
+    3300026: branch14_xw14_xt28
+    3300028: branch15_xw25_xt35_xp09
+    3300030: branch17_xw14_xt30
+    3300032: branch18_xw16_xt28_xp04
+    3300034: branch19_xw22_xt28_xp02
+    3300036: branch20_xw20_xt28_xp09
+    3300038: branch21_xw18_xt28_xp06
+    3300040: brush01
+    3300042: brush02
+    3300044: brush03
+    3300046: coconut01
+    3300048: coconut02
+    3300050: coconut03
+    3300052: coconut04
+    3300054: coconut05
+    3300056: coconut06
+    3300058: trunk_xw14
+    3300060: //RootNode
+    4300000: trunk_xw14
+    4300002: coconut06
+    4300004: coconut05
+    4300006: coconut04
+    4300008: coconut03
+    4300010: coconut02
+    4300012: brush03
+    4300014: brush02
+    4300016: branch21_xw18_xt28_xp06
+    4300018: branch20_xw20_xt28_xp09
+    4300020: branch19_xw22_xt28_xp02
+    4300022: branch18_xw16_xt28_xp04
+    4300024: branch17_xw14_xt30
+    4300026: branch15_xw25_xt35_xp09
+    4300028: branch14_xw14_xt28
+    4300030: branch13_xw25_xt35_xp04
+    4300032: branch12_xw14_xt30_xp03
+    4300034: branch11_xw14_xt20
+    4300036: branch10_xw14_xt32_xp10
+    4300038: branch09_xw12_xt20_xp01
+    4300040: branch08_xw18_xt22_xp10
+    4300042: branch07_xw19_xt20_xp05
+    4300044: branch06_xw16_xt28_xp10
+    4300046: branch05_xw14_xt24_xp04
+    4300048: branch04_xw19_xt28_xp02
+    4300050: branch03_xw14_xt20
+    4300052: branch02_xw14_xt20
+    4300054: branch01_xw14_xt24_xp07
+    4300056: coconut01
+    4300058: brush01
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

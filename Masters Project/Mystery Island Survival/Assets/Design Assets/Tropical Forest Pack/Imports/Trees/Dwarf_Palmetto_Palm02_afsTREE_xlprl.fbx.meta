@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 7eb56759ed22b944c927fb6c3ef7b70a
+labels:
+- TropicalForestPack
+timeCreated: 1431217509
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hemi
+    100004: leaf_xw01_xt01
+    100006: leaf_xw01_xt01.001
+    100008: leaf_xw01_xt01.002
+    100010: leaf_xw01_xt01.003
+    100012: leaf_xw01_xt01.004
+    100014: leaf_xw01_xt01.005
+    100016: leaf_xw01_xt01.006
+    100018: leaf_xw01_xt01.007
+    100020: leaf_xw01_xt01.008
+    100022: leaf_xw01_xt01.009
+    100024: leaf_xw01_xt01.010
+    100026: leaf_xw01_xt01.011
+    100028: leaf_xw01_xt01.012
+    100030: leaf_xw01_xt01.013
+    100032: leaf_xw01_xt01.014
+    100034: root
+    100036: trunk_xw00_xp00
+    100038: leaf_xw00_xt01_xp08
+    100040: leaf_xw00_xt01_xp09
+    100042: leaf_xw01_xt00
+    100044: leaf_xw01_xt00.014
+    100046: leaf_xw01_xt00_xp08
+    100048: leaf_xw01_xt01_xp04
+    100050: leaf_xw01_xt01_xp07
+    100052: leaf_xw01_xt01_xp10
+    100054: leaf_xw02_xt01
+    100056: leaf_xw02_xt01_xp01
+    100058: leaf_xw02_xt01_xp02
+    100060: leaf_xw02_xt01_xp06
+    400000: //RootNode
+    400002: Hemi
+    400004: leaf_xw01_xt01
+    400006: leaf_xw01_xt01.001
+    400008: leaf_xw01_xt01.002
+    400010: leaf_xw01_xt01.003
+    400012: leaf_xw01_xt01.004
+    400014: leaf_xw01_xt01.005
+    400016: leaf_xw01_xt01.006
+    400018: leaf_xw01_xt01.007
+    400020: leaf_xw01_xt01.008
+    400022: leaf_xw01_xt01.009
+    400024: leaf_xw01_xt01.010
+    400026: leaf_xw01_xt01.011
+    400028: leaf_xw01_xt01.012
+    400030: leaf_xw01_xt01.013
+    400032: leaf_xw01_xt01.014
+    400034: root
+    400036: trunk_xw00_xp00
+    400038: leaf_xw00_xt01_xp08
+    400040: leaf_xw00_xt01_xp09
+    400042: leaf_xw01_xt00
+    400044: leaf_xw01_xt00.014
+    400046: leaf_xw01_xt00_xp08
+    400048: leaf_xw01_xt01_xp04
+    400050: leaf_xw01_xt01_xp07
+    400052: leaf_xw01_xt01_xp10
+    400054: leaf_xw02_xt01
+    400056: leaf_xw02_xt01_xp01
+    400058: leaf_xw02_xt01_xp02
+    400060: leaf_xw02_xt01_xp06
+    2300000: leaf_xw01_xt01
+    2300002: leaf_xw01_xt01.001
+    2300004: leaf_xw01_xt01.002
+    2300006: leaf_xw01_xt01.003
+    2300008: leaf_xw01_xt01.004
+    2300010: leaf_xw01_xt01.005
+    2300012: leaf_xw01_xt01.006
+    2300014: leaf_xw01_xt01.007
+    2300016: leaf_xw01_xt01.008
+    2300018: leaf_xw01_xt01.009
+    2300020: leaf_xw01_xt01.010
+    2300022: leaf_xw01_xt01.011
+    2300024: leaf_xw01_xt01.012
+    2300026: leaf_xw01_xt01.013
+    2300028: leaf_xw01_xt01.014
+    2300030: trunk_xw00_xp00
+    2300032: //RootNode
+    2300034: leaf_xw00_xt01_xp08
+    2300036: leaf_xw00_xt01_xp09
+    2300038: leaf_xw01_xt00
+    2300040: leaf_xw01_xt00.014
+    2300042: leaf_xw01_xt00_xp08
+    2300044: leaf_xw01_xt01_xp04
+    2300046: leaf_xw01_xt01_xp07
+    2300048: leaf_xw01_xt01_xp10
+    2300050: leaf_xw02_xt01
+    2300052: leaf_xw02_xt01_xp01
+    2300054: leaf_xw02_xt01_xp02
+    2300056: leaf_xw02_xt01_xp06
+    3300000: leaf_xw01_xt01
+    3300002: leaf_xw01_xt01.001
+    3300004: leaf_xw01_xt01.002
+    3300006: leaf_xw01_xt01.003
+    3300008: leaf_xw01_xt01.004
+    3300010: leaf_xw01_xt01.005
+    3300012: leaf_xw01_xt01.006
+    3300014: leaf_xw01_xt01.007
+    3300016: leaf_xw01_xt01.008
+    3300018: leaf_xw01_xt01.009
+    3300020: leaf_xw01_xt01.010
+    3300022: leaf_xw01_xt01.011
+    3300024: leaf_xw01_xt01.012
+    3300026: leaf_xw01_xt01.013
+    3300028: leaf_xw01_xt01.014
+    3300030: trunk_xw00_xp00
+    3300032: //RootNode
+    3300034: leaf_xw00_xt01_xp08
+    3300036: leaf_xw00_xt01_xp09
+    3300038: leaf_xw01_xt00
+    3300040: leaf_xw01_xt00.014
+    3300042: leaf_xw01_xt00_xp08
+    3300044: leaf_xw01_xt01_xp04
+    3300046: leaf_xw01_xt01_xp07
+    3300048: leaf_xw01_xt01_xp10
+    3300050: leaf_xw02_xt01
+    3300052: leaf_xw02_xt01_xp01
+    3300054: leaf_xw02_xt01_xp02
+    3300056: leaf_xw02_xt01_xp06
+    4300000: trunk_xw00_xp00
+    4300002: leaf_xw01_xt01.014
+    4300004: leaf_xw01_xt01.013
+    4300006: leaf_xw01_xt01.012
+    4300008: leaf_xw01_xt01.011
+    4300010: leaf_xw01_xt01.010
+    4300012: leaf_xw01_xt01.009
+    4300014: leaf_xw01_xt01.008
+    4300016: leaf_xw01_xt01.007
+    4300018: leaf_xw01_xt01.006
+    4300020: leaf_xw01_xt01.005
+    4300022: leaf_xw01_xt01.004
+    4300024: leaf_xw01_xt01.003
+    4300026: leaf_xw01_xt01.002
+    4300028: leaf_xw01_xt01.001
+    4300030: leaf_xw01_xt01
+    4300032: leaf_xw01_xt01_xp09
+    4300034: leaf_xw01_xt01_xp07
+    4300036: leaf_xw01_xt01_xp04
+    4300038: leaf_xw01_xt02_xp08
+    4300040: leaf_xw01_xt01_xp08
+    4300042: leaf_xw02_xt01_xp01
+    4300044: leaf_xw01_xt01_xp10
+    4300046: leaf_xw02_xt03.003
+    4300048: leaf_xw02_xt02_xp06
+    4300050: leaf_xw02_xt01_xp02
+    4300052: leaf_xw00_xt01_xp09
+    4300054: leaf_xw01_xt00_xp08
+    4300056: leaf_xw02_xt01
+    4300058: leaf_xw02_xt01_xp06
+    4300060: leaf_xw01_xt00
+    4300062: leaf_xw00_xt01_xp08
+    4300064: leaf_xw01_xt00.014
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

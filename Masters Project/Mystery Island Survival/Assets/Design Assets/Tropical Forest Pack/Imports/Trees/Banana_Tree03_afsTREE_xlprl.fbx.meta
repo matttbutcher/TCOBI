@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 3016c58e2d9ba224b83e59f61d3bee82
+labels:
+- TropicalForestPack
+timeCreated: 1443912477
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: branch01_xw01_xt01_xlp01
+    100004: branch02_xw00_xt01_xp08_xlp00
+    100006: branch03_xw02_xt01_xlp01
+    100008: branch04_xw01_xt01_xp20_xlp00
+    100010: branch05_xw01_xt01_xlp00
+    100012: branch06_xw01_xt01_xp10_xlp01
+    100014: branch07_xw03_xt05
+    100016: branch08_xw03_xt05_xp04
+    100018: branch09_xw07_xt05_xp15
+    100020: branch10_xw04_xt06_xp09
+    100022: branch11_xw05_xt04_xp01
+    100024: branch12_xw06_xt05_xp07
+    100026: branch13_xw05_xt08_xp17
+    100028: branch14_xw05_xt04_xp03
+    100030: trunk_xw04_xt03
+    400000: //RootNode
+    400002: branch01_xw01_xt01_xlp01
+    400004: branch02_xw00_xt01_xp08_xlp00
+    400006: branch03_xw02_xt01_xlp01
+    400008: branch04_xw01_xt01_xp20_xlp00
+    400010: branch05_xw01_xt01_xlp00
+    400012: branch06_xw01_xt01_xp10_xlp01
+    400014: branch07_xw03_xt05
+    400016: branch08_xw03_xt05_xp04
+    400018: branch09_xw07_xt05_xp15
+    400020: branch10_xw04_xt06_xp09
+    400022: branch11_xw05_xt04_xp01
+    400024: branch12_xw06_xt05_xp07
+    400026: branch13_xw05_xt08_xp17
+    400028: branch14_xw05_xt04_xp03
+    400030: trunk_xw04_xt03
+    2300000: branch01_xw01_xt01_xlp01
+    2300002: branch02_xw00_xt01_xp08_xlp00
+    2300004: branch03_xw02_xt01_xlp01
+    2300006: branch04_xw01_xt01_xp20_xlp00
+    2300008: branch05_xw01_xt01_xlp00
+    2300010: branch06_xw01_xt01_xp10_xlp01
+    2300012: branch07_xw03_xt05
+    2300014: branch08_xw03_xt05_xp04
+    2300016: branch09_xw07_xt05_xp15
+    2300018: branch10_xw04_xt06_xp09
+    2300020: branch11_xw05_xt04_xp01
+    2300022: branch12_xw06_xt05_xp07
+    2300024: branch13_xw05_xt08_xp17
+    2300026: branch14_xw05_xt04_xp03
+    2300028: trunk_xw04_xt03
+    2300030: //RootNode
+    3300000: branch01_xw01_xt01_xlp01
+    3300002: branch02_xw00_xt01_xp08_xlp00
+    3300004: branch03_xw02_xt01_xlp01
+    3300006: branch04_xw01_xt01_xp20_xlp00
+    3300008: branch05_xw01_xt01_xlp00
+    3300010: branch06_xw01_xt01_xp10_xlp01
+    3300012: branch07_xw03_xt05
+    3300014: branch08_xw03_xt05_xp04
+    3300016: branch09_xw07_xt05_xp15
+    3300018: branch10_xw04_xt06_xp09
+    3300020: branch11_xw05_xt04_xp01
+    3300022: branch12_xw06_xt05_xp07
+    3300024: branch13_xw05_xt08_xp17
+    3300026: branch14_xw05_xt04_xp03
+    3300028: trunk_xw04_xt03
+    3300030: //RootNode
+    4300000: trunk_xw04_xt03
+    4300002: branch08_xw03_xt05_xp04
+    4300004: branch14_xw05_xt04_xp03
+    4300006: branch13_xw05_xt08_xp17
+    4300008: branch12_xw06_xt05_xp07
+    4300010: branch11_xw05_xt04_xp01
+    4300012: branch10_xw04_xt06_xp09
+    4300014: branch09_xw07_xt05_xp15
+    4300016: branch03_xw02_xt01_xlp01
+    4300018: branch02_xw00_xt01_xp08_xlp00
+    4300020: branch04_xw01_xt01_xp20_xlp00
+    4300022: branch05_xw01_xt01_xlp00
+    4300024: branch06_xw01_xt01_xp10_xlp01
+    4300026: branch01_xw01_xt01_xlp01
+    4300028: branch07_xw03_xt05
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

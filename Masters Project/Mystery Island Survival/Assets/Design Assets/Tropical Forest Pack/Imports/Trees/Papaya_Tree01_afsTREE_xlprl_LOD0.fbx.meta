@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 618e0a31c307b9548bf8a557df1b28ea
+labels:
+- TropicalForestPack
+timeCreated: 1432785056
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: fruit01_xp05_xlp20
+    100002: fruit02_xp10_xlp30
+    100004: fruit03_xlp20
+    100006: leaff01_xw06_xt06_xlp30
+    100008: leaff01_xw06_xt06_xp00
+    100010: leaff01_xw06_xt06_xp00_xlp25
+    100012: leaff01_xw06_xt06_xp01
+    100014: leaff01_xw06_xt06_xp02
+    100016: leaff01_xw06_xt06_xp02_xlp05
+    100018: leaff01_xw06_xt06_xp03.001
+    100020: leaff01_xw06_xt06_xp03.003
+    100022: leaff01_xw06_xt06_xp03_xlp30
+    100024: leaff01_xw06_xt06_xp03_xlp30.001
+    100026: leaff01_xw06_xt06_xp04_xlp30
+    100028: leaff01_xw06_xt06_xp05_xlp20
+    100030: leaff01_xw06_xt06_xp06_xlp25
+    100032: leaff01_xw06_xt06_xp07
+    100034: leaff01_xw06_xt06_xp07.001
+    100036: leaff01_xw06_xt06_xp08_xlp20
+    100038: leaff01_xw06_xt06_xp08_xlp40
+    100040: leaff01_xw06_xt06_xp10
+    100042: leaff01_xw06_xt06_xp10_xlp35
+    100044: leaff02_xw06_xt06_xlp20
+    100046: leaff04_xw06_xt16_xp08_xlp35
+    100048: leaff04_xw12_xt12_xp10_xlp30
+    100050: //RootNode
+    100052: trunk_xw05_xt05
+    400000: fruit01_xp05_xlp20
+    400002: fruit02_xp10_xlp30
+    400004: fruit03_xlp20
+    400006: leaff01_xw06_xt06_xlp30
+    400008: leaff01_xw06_xt06_xp00
+    400010: leaff01_xw06_xt06_xp00_xlp25
+    400012: leaff01_xw06_xt06_xp01
+    400014: leaff01_xw06_xt06_xp02
+    400016: leaff01_xw06_xt06_xp02_xlp05
+    400018: leaff01_xw06_xt06_xp03.001
+    400020: leaff01_xw06_xt06_xp03.003
+    400022: leaff01_xw06_xt06_xp03_xlp30
+    400024: leaff01_xw06_xt06_xp03_xlp30.001
+    400026: leaff01_xw06_xt06_xp04_xlp30
+    400028: leaff01_xw06_xt06_xp05_xlp20
+    400030: leaff01_xw06_xt06_xp06_xlp25
+    400032: leaff01_xw06_xt06_xp07
+    400034: leaff01_xw06_xt06_xp07.001
+    400036: leaff01_xw06_xt06_xp08_xlp20
+    400038: leaff01_xw06_xt06_xp08_xlp40
+    400040: leaff01_xw06_xt06_xp10
+    400042: leaff01_xw06_xt06_xp10_xlp35
+    400044: leaff02_xw06_xt06_xlp20
+    400046: leaff04_xw06_xt16_xp08_xlp35
+    400048: leaff04_xw12_xt12_xp10_xlp30
+    400050: //RootNode
+    400052: trunk_xw05_xt05
+    2300000: fruit01_xp05_xlp20
+    2300002: fruit02_xp10_xlp30
+    2300004: fruit03_xlp20
+    2300006: leaff01_xw06_xt06_xlp30
+    2300008: leaff01_xw06_xt06_xp00
+    2300010: leaff01_xw06_xt06_xp00_xlp25
+    2300012: leaff01_xw06_xt06_xp01
+    2300014: leaff01_xw06_xt06_xp02
+    2300016: leaff01_xw06_xt06_xp02_xlp05
+    2300018: leaff01_xw06_xt06_xp03.001
+    2300020: leaff01_xw06_xt06_xp03.003
+    2300022: leaff01_xw06_xt06_xp03_xlp30
+    2300024: leaff01_xw06_xt06_xp03_xlp30.001
+    2300026: leaff01_xw06_xt06_xp04_xlp30
+    2300028: leaff01_xw06_xt06_xp05_xlp20
+    2300030: leaff01_xw06_xt06_xp06_xlp25
+    2300032: leaff01_xw06_xt06_xp07
+    2300034: leaff01_xw06_xt06_xp07.001
+    2300036: leaff01_xw06_xt06_xp08_xlp20
+    2300038: leaff01_xw06_xt06_xp08_xlp40
+    2300040: leaff01_xw06_xt06_xp10
+    2300042: leaff01_xw06_xt06_xp10_xlp35
+    2300044: leaff02_xw06_xt06_xlp20
+    2300046: leaff04_xw06_xt16_xp08_xlp35
+    2300048: leaff04_xw12_xt12_xp10_xlp30
+    2300050: trunk_xw05_xt05
+    2300052: //RootNode
+    3300000: fruit01_xp05_xlp20
+    3300002: fruit02_xp10_xlp30
+    3300004: fruit03_xlp20
+    3300006: leaff01_xw06_xt06_xlp30
+    3300008: leaff01_xw06_xt06_xp00
+    3300010: leaff01_xw06_xt06_xp00_xlp25
+    3300012: leaff01_xw06_xt06_xp01
+    3300014: leaff01_xw06_xt06_xp02
+    3300016: leaff01_xw06_xt06_xp02_xlp05
+    3300018: leaff01_xw06_xt06_xp03.001
+    3300020: leaff01_xw06_xt06_xp03.003
+    3300022: leaff01_xw06_xt06_xp03_xlp30
+    3300024: leaff01_xw06_xt06_xp03_xlp30.001
+    3300026: leaff01_xw06_xt06_xp04_xlp30
+    3300028: leaff01_xw06_xt06_xp05_xlp20
+    3300030: leaff01_xw06_xt06_xp06_xlp25
+    3300032: leaff01_xw06_xt06_xp07
+    3300034: leaff01_xw06_xt06_xp07.001
+    3300036: leaff01_xw06_xt06_xp08_xlp20
+    3300038: leaff01_xw06_xt06_xp08_xlp40
+    3300040: leaff01_xw06_xt06_xp10
+    3300042: leaff01_xw06_xt06_xp10_xlp35
+    3300044: leaff02_xw06_xt06_xlp20
+    3300046: leaff04_xw06_xt16_xp08_xlp35
+    3300048: leaff04_xw12_xt12_xp10_xlp30
+    3300050: trunk_xw05_xt05
+    3300052: //RootNode
+    4300000: trunk_xw05_xt05
+    4300002: leaff01_xw06_xt06_xp03.003
+    4300004: leaff01_xw06_xt06_xlp30
+    4300006: leaff01_xw06_xt06_xp10_xlp35
+    4300008: leaff01_xw06_xt06_xp03_xlp30
+    4300010: leaff04_xw06_xt16_xp08_xlp35
+    4300012: leaff01_xw06_xt06_xp00_xlp25
+    4300014: leaff01_xw06_xt06_xp07.001
+    4300016: leaff01_xw06_xt06_xp03.001
+    4300018: leaff01_xw06_xt06_xp08_xlp40
+    4300020: leaff01_xw06_xt06_xp00
+    4300022: leaff01_xw06_xt06_xp01
+    4300024: leaff01_xw06_xt06_xp06_xlp25
+    4300026: leaff01_xw06_xt06_xp10
+    4300028: leaff01_xw06_xt06_xp07
+    4300030: leaff01_xw06_xt06_xp02_xlp05
+    4300032: leaff01_xw06_xt06_xp05_xlp20
+    4300034: leaff01_xw06_xt06_xp03_xlp30.001
+    4300036: leaff01_xw06_xt06_xp08_xlp20
+    4300038: leaff01_xw06_xt06_xp02
+    4300040: leaff02_xw06_xt06_xlp20
+    4300042: leaff04_xw12_xt12_xp10_xlp30
+    4300044: fruit01_xp05_xlp20
+    4300046: fruit03_xlp20
+    4300048: fruit02_xp10_xlp30
+    4300050: leaff01_xw06_xt06_xp04_xlp30
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
