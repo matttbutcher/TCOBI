@@ -1,9 +1,10 @@
 fileFormatVersion: 2
-guid: 6884dc586138d744da4c2c8fe07cb3b5
-timeCreated: 1502990306
-licenseType: Free
+guid: abe7031aeae437643b3069b298a842f2
+labels:
+- TropicalForestPack
+timeCreated: 1446647991
+licenseType: Store
 NativeFormatImporter:
-  mainObjectFileID: -1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
