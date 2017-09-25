@@ -26,10 +26,16 @@ public class PlayerVitals : MonoBehaviour {
     private int staminaRegainRate;
     public int staminaRegainMult;
 
-    [Range(1, 365)] public float artifactCount = 0;
+    public float medkitCount = 0;
+    public float artifactCount = 0;
+    public float enemyDeathCount = 0;
 
     private CharacterController charController;
     private OVRPlayerController playerController;
+
+    // Audio
+    public AudioSource audioSource;
+    public AudioClip[] deathSound;
 
     public TitleMenu Quit;
 
@@ -142,6 +148,13 @@ public class PlayerVitals : MonoBehaviour {
 
     void CharacterDeath()
     {
+        PlayDeathSound(0);
         Quit.LoadMainMenu();
+    }
+
+    public void PlayDeathSound(int clipNumber)
+    {
+        audioSource.clip = deathSound[clipNumber];
+        audioSource.Play();
     }
 }

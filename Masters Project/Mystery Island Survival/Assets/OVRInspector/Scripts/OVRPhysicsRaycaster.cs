@@ -132,12 +132,12 @@ namespace UnityEngine.EventSystems
                         worldNormal = hits[0].normal,
                     };
 
-                    ItemProperties properties = result.gameObject.GetComponent<ItemProperties>(); // <-- This is a minor optimization
+                    ItemProperties properties = result.gameObject.GetComponent<ItemProperties>();
                     itemNameText.text = properties.itemName;
 
                     if (OVRInput.Get(OVRInput.Button.One))
                     {
-                        properties.Interaction(playerVitals); // <-- This is modified
+                        properties.Interaction(playerVitals);
                         result.gameObject.SetActive(false);
                     }
 

@@ -9,8 +9,6 @@ public class ItemProperties : MonoBehaviour
     [Header("Your Consumables")]
     public string itemName;
 
-    private float artifactCount = 0;
-
     [SerializeField]
     private bool food;
     [SerializeField]
@@ -19,8 +17,17 @@ public class ItemProperties : MonoBehaviour
     private bool health;
     [SerializeField]
     private bool artifact;
+    
+    // UI Names
+    [SerializeField]
+    private TextMesh medkitName;
     [SerializeField]
     private TextMesh artifactName;
+
+    // Audio
+    public AudioSource audioSource;
+    public AudioClip[] pickupSound;
+
     [SerializeField]
     private float value;
 
@@ -28,20 +35,32 @@ public class ItemProperties : MonoBehaviour
     {
         if (food)
         {
+            PlayPickupSound(0);
             playerVitals.hungerSlider.value += value;
         }
         else if (water)
         {
+            PlayPickupSound(1);
             playerVitals.thirstSlider.value += value;
         }
         else if (health)
         {
+            PlayPickupSound(2);
+            playerVitals.medkitCount += 1;
+            medkitName.text = "Medkits Used: " + playerVitals.medkitCount;
             playerVitals.healthSlider.value += value;
         }
         else if (artifact)
         {
+            PlayPickupSound(3);
             playerVitals.artifactCount += 1;
-            artifactName.text = "Artifacts Collected: " + playerVitals.artifactCount;
+            artifactName.text = "Artifacts Collected: " + playerVitals.artifactCount + "/25";
         }
+    }
+
+    public void PlayPickupSound (int clipNumber)
+    {
+        audioSource.clip = pickupSound[clipNumber];
+        audioSource.Play();
     }
 }

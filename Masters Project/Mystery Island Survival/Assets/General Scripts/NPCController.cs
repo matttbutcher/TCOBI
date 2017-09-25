@@ -49,6 +49,12 @@ public class NPCController : MonoBehaviour {
     public Slider healthSlider;
     public int maxHealth;
 
+    // Enemy Death Count for Player UI
+    [SerializeField]
+    private PlayerVitals playerVitals;
+    [SerializeField]
+    private TextMesh enemyCountName;
+
     // Use this for initialization
     void Start () 
 	{
@@ -183,18 +189,20 @@ public class NPCController : MonoBehaviour {
     if (healthSlider.value <= 0)
     {
         Debug.Log("Death");
-        NPCDeath();
+        NPCDeath(playerVitals);
         PlayClipAt(npcAudio[4], this.transform.position);                  // Play death sound
 
      }
 }
-    public void NPCDeath()
+    public void NPCDeath(PlayerVitals playerVitals)
     {
         resetAnimationStates();
         anim.SetBool("isDead", true);
         state = "dead";
         Destroy(healthContainer);       // Destroy sword collider so it no longer shows above the npcs dead body
         Destroy(sword);                 // Destroy sword collider so it no longer takes health off the player on impact
+        playerVitals.enemyDeathCount += 1;
+        enemyCountName.text = "Enemies Defeated: " + playerVitals.enemyDeathCount;
     }
 
     public void resetAnimationStates()
