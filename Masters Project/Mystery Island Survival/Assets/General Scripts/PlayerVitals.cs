@@ -26,6 +26,8 @@ public class PlayerVitals : MonoBehaviour {
     private int staminaRegainRate;
     public int staminaRegainMult;
 
+    [Range(1, 365)] public float artifactCount = 0;
+
     private CharacterController charController;
     private OVRPlayerController playerController;
 
